@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu Korea Community</title>
-    <link>https://ubuntu-kr.org/en/</link>
+    <link>https://janghe11.github.io/en/</link>
     <description>Recent content on Ubuntu Korea Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ubuntu-kr.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://janghe11.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>UbuCon Korea 2024</title>
-      <link>https://ubuntu-kr.org/en/slides/ubucon-kr-2024/</link>
+      <link>https://janghe11.github.io/en/slides/ubucon-kr-2024/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.org/en/slides/ubucon-kr-2024/</guid>
+      <guid>https://janghe11.github.io/en/slides/ubucon-kr-2024/</guid>
       <description>Following the success of last year&amp;rsquo;s UbuCon Korea, UbuCon Korea will be held at Aug 10th at Microsoft Korea. With the theme &amp;ldquo;Deploy with Ubuntu&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Ubuntu 24.04 LTS</title>
-      <link>https://ubuntu-kr.org/en/slides/ubuntu/</link>
+      <link>https://janghe11.github.io/en/slides/ubuntu/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.org/en/slides/ubuntu/</guid>
+      <guid>https://janghe11.github.io/en/slides/ubuntu/</guid>
       <description>Meet the latest Ubuntu LTS today: Better performance and developer productivity, New management toold for Desktop and WSL, Up to 12 years of support.</description>
     </item>
     
     <item>
       <title>Download Ubuntu</title>
-      <link>https://ubuntu-kr.org/en/download/</link>
+      <link>https://janghe11.github.io/en/download/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ubuntu-kr.org/en/download/</guid>
+      <guid>https://janghe11.github.io/en/download/</guid>
       <description>Version and system requirements Ubuntu 24.04 LTS Ubuntu 24.04 LTS, the latest LTS(Long term support) version provides 5 years of maintenance and security updates for free. In most cases, LTS version is recommended for stable use.
  See Ubuntu 24.04 LTS release notes (Korean translation) See Ubuntu 24.04 LTS release notes  Ubuntu 23.10 If you want to try out latest features, Try out Ubuntu 23.10, the latest version. It provides 9 months of maintenance and security updates for free.</description>
     </item>
