@@ -1,16 +1,13 @@
-baseURL: 'https://ubuntu-kr.org'
+baseURL: 'https://janghe11.github.io'
 languageCode: ko-kr
-title: 'Ubuntu Korea Community'
+title: 'OpenInfra Korea Community'
 theme: "ubuntukr"
 buildFuture: true
-googleAnalytics: "G-S1V4C73F0T"
+googleAnalytics: ""
 params:
-  contact: contact@ubuntu-kr.org
-  facebook: ubuntukorea
-  twitter: UbuntuKrOrg
-  github: ubuntu-kr
-  launchpad: ubuntu-ko
-  mastodon: https://mastodon.social/@UbuntuKrOrg
+  contact: admin@openinfra-kr.org
+  facebook: openstack.ko
+  github: openstack-kr
   youtube: https://www.youtube.com/user/UbuntuKorea
   linkedin: https://www.linkedin.com/company/ubuntu-kr/
   source_repo: https://github.com/ubuntu-kr/ubuntu-kr.github.io
